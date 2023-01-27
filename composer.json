@@ -1,0 +1,17 @@
+{
+    "name": "luiz.braz/phpstore",
+    "description": "Loja online em PHP",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "core\\": "core/"
+        }
+    },
+    "authors": [
+        {
+            "name": "guilhermeCBraz",
+            "email": "lgcb@ic.ufal.br"
+        }
+    ],
+    "require": {}
+}
